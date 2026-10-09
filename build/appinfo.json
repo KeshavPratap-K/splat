@@ -1,0 +1,24 @@
+{
+    "displayName": "Splat",
+    "enableMultiJS": true,
+    "messageKeys": {},
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "targetPlatforms": [
+        "emery"
+    ],
+    "uuid": "66e27762-f5d6-4a55-a9e7-0c8e647db67a",
+    "watchapp": {
+        "watchface": false
+    },
+    "name": "splat",
+    "shortName": "Splat",
+    "longName": "Splat",
+    "versionLabel": "1.0.0",
+    "companyName": "keshavpratap.dev@gmail.com",
+    "appKeys": {},
+    "capabilities": []
+}

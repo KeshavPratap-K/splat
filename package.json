@@ -1,0 +1,24 @@
+{
+    "author": "keshavpratap.dev@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "splat",
+    "pebble": {
+        "displayName": "Splat",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "emery"
+        ],
+        "uuid": "66e27762-f5d6-4a55-a9e7-0c8e647db67a",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
