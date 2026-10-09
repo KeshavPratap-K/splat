@@ -1,0 +1,6 @@
+__pycache__/
+build/
+node_modules/
+package-lock.json
+.lock-waf_linux_build
+__pycache__/wscriptcpython-311.pyc
